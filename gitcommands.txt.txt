@@ -1,0 +1,22 @@
+Mattias Leino
+
+Actually did the assignment using git desktop
+(except tag which I did on terminal)
+But here are the terminal commands for it:
+
+command line commands for using the terminal:
+
+1. Already had a github account.
+2. Created the public repository via github
+3. Cloned repository via github
+4. Created a readme in the 3308 folder
+5. git add Sample1.txt, git add Sample2.txt, git add readme.md
+6. git tag v0.0.1
+7. git commit -m [message], git push origin v0.0.1 [push master to gitub]
+8. git branch new-feature, git checkout new-feature
+9. git add Sample3.txt ...
+10.git checkout master
+11.edited sample, then git added and git committed message
+12.git merge new-feature/master
+13.git checkout new-feature
+14.git push
